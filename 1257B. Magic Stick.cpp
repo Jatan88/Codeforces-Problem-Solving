@@ -2,7 +2,7 @@
 
 Solution By Jatan Shah
 CF Handle : Jatan88
-Problem : 1257B
+Problem : 1257B Magic Stick
 Problem Link : https://codeforces.com/problemset/problem/1257/B
 Status : Accepted
 
